@@ -1,7 +1,7 @@
 {
   "batteryLevelChanged": {
     "feature": "`batteryLevelChanged` 이벤트",
-    "url": "/api2/batteryLevelChanged",
+    "url": "/api2/Object/Event/batteryLevelChanged",
     "status": {
       "deprecated": false,
       "experimental": false,

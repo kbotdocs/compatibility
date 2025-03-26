@@ -1,7 +1,7 @@
 {
   "activityBackPressed": {
     "feature": "`activityBackPressed` 이벤트",
-    "url": "/api2/activityBackPressed",
+    "url": "/api2/Object/Event/activityBackPressed",
     "status": {
       "deprecated": false,
       "experimental": false,

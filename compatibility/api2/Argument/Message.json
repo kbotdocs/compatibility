@@ -1,7 +1,7 @@
 {
   "Message": {
     "feature": "`Message`",
-    "url": "/api2/Message",
+    "url": "/api2/Argument/Message",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "author": {
     "feature": "`author`",
-    "url": "/api2/Message/author",
+    "url": "/api2/Argument/Message/author",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "channelId": {
     "feature": "`channelId`",
-    "url": "/api2/Message/channelId",
+    "url": "/api2/Argument/Message/channelId",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "content": {
     "feature": "`content`",
-    "url": "/api2/Message/content",
+    "url": "/api2/Argument/Message/content",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "image": {
     "feature": "`image`",
-    "url": "/api2/Message/image",
+    "url": "/api2/Argument/Message/image",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "isDebugRoom": {
     "feature": "`isDebugRoom`",
-    "url": "/api2/Message/isDebugRoom",
+    "url": "/api2/Argument/Message/isDebugRoom",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "isGroupChat": {
     "feature": "`isGroupChat`",
-    "url": "/api2/Message/isGroupChat",
+    "url": "/api2/Argument/Message/isGroupChat",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "isMention": {
     "feature": "`isMention`",
-    "url": "/api2/Message/isMention",
+    "url": "/api2/Argument/Message/isMention",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "isMultiChat": {
     "feature": "`isMultiChat`",
-    "url": "/api2/Message/isMultiChat",
+    "url": "/api2/Argument/Message/isMultiChat",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "logId": {
     "feature": "`logId`",
-    "url": "/api2/Message/logId",
+    "url": "/api2/Argument/Message/logId",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "packageName": {
     "feature": "`packageName`",
-    "url": "/api2/Message/packageName",
+    "url": "/api2/Argument/Message/packageName",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "room": {
     "feature": "`room`",
-    "url": "/api2/Message/room",
+    "url": "/api2/Argument/Message/room",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "markAsRead": {
     "feature": "`markAsRead`",
-    "url": "/api2/Message/markAsRead",
+    "url": "/api2/Argument/Message/markAsRead",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -378,7 +378,7 @@
   },
   "reply": {
     "feature": "`reply`",
-    "url": "/api2/Message/reply",
+    "url": "/api2/Argument/Message/reply",
     "status": {
       "deprecated": false,
       "experimental": false,

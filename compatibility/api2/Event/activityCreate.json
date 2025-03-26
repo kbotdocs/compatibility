@@ -1,7 +1,7 @@
 {
   "activityCreate": {
     "feature": "`activityCreate` 이벤트",
-    "url": "/api2/activityCreate",
+    "url": "/api2/Object/Event/activityCreate",
     "status": {
       "deprecated": false,
       "experimental": false,

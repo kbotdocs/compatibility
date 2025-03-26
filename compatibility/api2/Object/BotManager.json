@@ -1,7 +1,7 @@
 {
   "BotManager": {
     "feature": "`BotManager`",
-    "url": "/api2/BotManager",
+    "url": "/api2/Object/BotManager",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "compile": {
     "feature": "`compile`",
-    "url": "/api2/BotManager/compile",
+    "url": "/api2/Object/BotManager/compile",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "compileAll": {
     "feature": "`compileAll`",
-    "url": "/api2/BotManager/compileAll",
+    "url": "/api2/Object/BotManager/compileAll",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "getBot": {
     "feature": "`getBot`",
-    "url": "/api2/BotManager/getBot",
+    "url": "/api2/Object/BotManager/getBot",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getBotList": {
     "feature": "`getBotList`",
-    "url": "/api2/BotManager/getBotList",
+    "url": "/api2/Object/BotManager/getBotList",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "getCurrentBot": {
     "feature": "`getCurrentBot`",
-    "url": "/api2/BotManager/getCurrentBot",
+    "url": "/api2/Object/BotManager/getCurrentBot",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "getPower": {
     "feature": "`getPower`",
-    "url": "/api2/BotManager/getPower",
+    "url": "/api2/Object/BotManager/getPower",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "getRooms": {
     "feature": "`getRooms`",
-    "url": "/api2/BotManager/getRooms",
+    "url": "/api2/Object/BotManager/getRooms",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "isCompiled": {
     "feature": "`isCompiled`",
-    "url": "/api2/BotManager/isCompiled",
+    "url": "/api2/Object/BotManager/isCompiled",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "prepare(Boolean$)": {
     "feature": "`prepare(Boolean?)`",
-    "url": "/api2/BotManager/prepare(Boolean$)",
+    "url": "/api2/Object/BotManager/prepare(Boolean$)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "prepare(String,Boolean$)": {
     "feature": "`prepare(String, Boolean?)`",
-    "url": "/api2/BotManager/prepare(String,Boolean$)",
+    "url": "/api2/Object/BotManager/prepare(String,Boolean$)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "setPower": {
     "feature": "`setPower`",
-    "url": "/api2/BotManager/setPower",
+    "url": "/api2/Object/BotManager/setPower",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "unload": {
     "feature": "`unload`",
-    "url": "/api2/BotManager/unload",
+    "url": "/api2/Object/BotManager/unload",
     "status": {
       "deprecated": false,
       "experimental": false,

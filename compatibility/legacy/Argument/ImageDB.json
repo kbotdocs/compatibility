@@ -1,7 +1,7 @@
 {
   "ImageDB": {
     "feature": "`ImageDB`",
-    "url": "/legacy/ImageDB",
+    "url": "/legacy/Argument/ImageDB",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "getImage": {
     "feature": "`getImage`",
-    "url": "/legacy/ImageDB/getImage",
+    "url": "/legacy/Argument/ImageDB/getImage",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getImageBase64": {
     "feature": "`getImageBase64`",
-    "url": "/legacy/ImageDB/getImageBase64",
+    "url": "/legacy/Argument/ImageDB/getImageBase64",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "getImageBitmap": {
     "feature": "`getImageBitmap`",
-    "url": "/legacy/ImageDB/getImageBitmap",
+    "url": "/legacy/Argument/ImageDB/getImageBitmap",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getImageHash": {
     "feature": "`getImageHash`",
-    "url": "/legacy/ImageDB/getImageHash",
+    "url": "/legacy/Argument/ImageDB/getImageHash",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "getImageMD5": {
     "feature": "`getImageMD5`",
-    "url": "/legacy/ImageDB/getImageMD5",
+    "url": "/legacy/Argument/ImageDB/getImageMD5",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "getImageSHA": {
     "feature": "`getImageSHA`",
-    "url": "/legacy/ImageDB/getImageSHA",
+    "url": "/legacy/Argument/ImageDB/getImageSHA",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "getProfileBase64": {
     "feature": "`getProfileBase64`",
-    "url": "/legacy/ImageDB/getProfileBase64",
+    "url": "/legacy/Argument/ImageDB/getProfileBase64",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "getProfileBitmap": {
     "feature": "`getProfileBitmap`",
-    "url": "/legacy/ImageDB/getProfileBitmap",
+    "url": "/legacy/Argument/ImageDB/getProfileBitmap",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "getProfileHash": {
     "feature": "`getProfileHash`",
-    "url": "/legacy/ImageDB/getProfileHash",
+    "url": "/legacy/Argument/ImageDB/getProfileHash",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "getProfileImage": {
     "feature": "`getProfileImage`",
-    "url": "/legacy/ImageDB/getProfileImage",
+    "url": "/legacy/Argument/ImageDB/getProfileImage",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "getProfileMD5": {
     "feature": "`getProfileMD5`",
-    "url": "/legacy/ImageDB/getProfileMD5",
+    "url": "/legacy/Argument/ImageDB/getProfileMD5",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "getProfileSHA": {
     "feature": "`getProfileSHA`",
-    "url": "/legacy/ImageDB/getProfileSHA",
+    "url": "/legacy/Argument/ImageDB/getProfileSHA",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -378,7 +378,7 @@
   },
   "getRoomBitmap": {
     "feature": "`getRoomBitmap`",
-    "url": "/legacy/ImageDB/getRoomBitmap",
+    "url": "/legacy/Argument/ImageDB/getRoomBitmap",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -407,7 +407,7 @@
   },
   "getRoomImage": {
     "feature": "`getRoomImage`",
-    "url": "/legacy/ImageDB/getRoomImage",
+    "url": "/legacy/Argument/ImageDB/getRoomImage",
     "status": {
       "deprecated": false,
       "experimental": false,

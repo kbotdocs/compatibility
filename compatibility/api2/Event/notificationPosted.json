@@ -1,7 +1,7 @@
 {
   "notificationPosted": {
     "feature": "`notificationPosted` 이벤트",
-    "url": "/api2/notificationPosted",
+    "url": "/api2/Object/Event/notificationPosted",
     "status": {
       "deprecated": false,
       "experimental": false,

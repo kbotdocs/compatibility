@@ -1,7 +1,7 @@
 {
   "response": {
     "feature": "`response` 이벤트 리스너",
-    "url": "/legacy/response",
+    "url": "/legacy/EventListener/response",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "onStartCompile": {
     "feature": "`onStartCompile` 이벤트 리스너",
-    "url": "/legacy/onStartCompile",
+    "url": "/legacy/EventListener/onStartCompile",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "GlobalLog": {
     "feature": "`GlobalLog`",
-    "url": "/api2/GlobalLog",
+    "url": "/api2/Object/GlobalLog",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "clear": {
     "feature": "`clear`",
-    "url": "/api2/GlobalLog/clear",
+    "url": "/api2/Object/GlobalLog/clear",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "d": {
     "feature": "`d`",
-    "url": "/api2/GlobalLog/d",
+    "url": "/api2/Object/GlobalLog/d",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "debug": {
     "feature": "`debug`",
-    "url": "/api2/GlobalLog/debug",
+    "url": "/api2/Object/GlobalLog/debug",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "e": {
     "feature": "`e`",
-    "url": "/api2/GlobalLog/e",
+    "url": "/api2/Object/GlobalLog/e",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "error": {
     "feature": "`error`",
-    "url": "/api2/GlobalLog/error",
+    "url": "/api2/Object/GlobalLog/error",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "i": {
     "feature": "`i`",
-    "url": "/api2/GlobalLog/i",
+    "url": "/api2/Object/GlobalLog/i",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "info": {
     "feature": "`info`",
-    "url": "/api2/GlobalLog/info",
+    "url": "/api2/Object/GlobalLog/info",
     "status": {
       "deprecated": false,
       "experimental": false,

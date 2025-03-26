@@ -1,7 +1,7 @@
 {
   "activityDestroy": {
     "feature": "`activityDestroy` 이벤트",
-    "url": "/api2/activityDestroy",
+    "url": "/api2/Object/Event/activityDestroy",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "onPause": {
     "feature": "`onPause` 이벤트 리스너",
-    "url": "/legacy/onPause",
+    "url": "/legacy/EventListener/onPause",
     "status": {
       "deprecated": false,
       "experimental": false,

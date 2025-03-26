@@ -1,7 +1,7 @@
 {
   "onRestart": {
     "feature": "`onRestart` 이벤트 리스너",
-    "url": "/legacy/onRestart",
+    "url": "/legacy/EventListener/onRestart",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "App": {
     "feature": "`App`",
-    "url": "/api2/App",
+    "url": "/api2/Object/App",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "getContext": {
     "feature": "`getContext`",
-    "url": "/api2/App/getContext",
+    "url": "/api2/Object/App/getContext",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "runOnUiThread": {
     "feature": "`runOnUiThread`",
-    "url": "/api2/App/runOnUiThread",
+    "url": "/api2/Object/App/runOnUiThread",
     "status": {
       "deprecated": false,
       "experimental": false,

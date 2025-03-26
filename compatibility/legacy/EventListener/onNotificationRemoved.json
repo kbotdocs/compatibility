@@ -1,7 +1,7 @@
 {
   "onNotificationRemoved": {
     "feature": "`onNotificationRemoved` 이벤트 리스너",
-    "url": "/legacy/onNotificationRemoved",
+    "url": "/legacy/EventListener/onNotificationRemoved",
     "status": {
       "deprecated": false,
       "experimental": false,

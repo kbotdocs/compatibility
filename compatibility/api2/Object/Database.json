@@ -1,7 +1,7 @@
 {
   "Database": {
     "feature": "`Database`",
-    "url": "/api2/Database",
+    "url": "/api2/Object/Database",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "exists": {
     "feature": "`exists`",
-    "url": "/api2/Database/exists",
+    "url": "/api2/Object/Database/exists",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "readObject": {
     "feature": "`readObject`",
-    "url": "/api2/Database/readObject",
+    "url": "/api2/Object/Database/readObject",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "readString": {
     "feature": "`readString`",
-    "url": "/api2/Database/readString",
+    "url": "/api2/Object/Database/readString",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "writeObject": {
     "feature": "`writeObject`",
-    "url": "/api2/Database/writeObject",
+    "url": "/api2/Object/Database/writeObject",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "writeString": {
     "feature": "`writeString`",
-    "url": "/api2/Database/writeString",
+    "url": "/api2/Object/Database/writeString",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "activityResume": {
     "feature": "`activityResume` 이벤트",
-    "url": "/api2/activityResume",
+    "url": "/api2/Object/Event/activityResume",
     "status": {
       "deprecated": false,
       "experimental": false,

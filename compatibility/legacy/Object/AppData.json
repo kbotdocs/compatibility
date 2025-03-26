@@ -1,7 +1,7 @@
 {
   "AppData": {
     "feature": "`AppData`",
-    "url": "/legacy/AppData",
+    "url": "/legacy/Object/AppData",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "clear": {
     "feature": "`clear`",
-    "url": "/legacy/AppData/clear",
+    "url": "/legacy/Object/AppData/clear",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getBoolean": {
     "feature": "`getBoolean`",
-    "url": "/legacy/AppData/getBoolean",
+    "url": "/legacy/Object/AppData/getBoolean",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "getInt": {
     "feature": "`getInt`",
-    "url": "/legacy/AppData/getInt",
+    "url": "/legacy/Object/AppData/getInt",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getString": {
     "feature": "`getString`",
-    "url": "/legacy/AppData/getString",
+    "url": "/legacy/Object/AppData/getString",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "putBoolean": {
     "feature": "`putBoolean`",
-    "url": "/legacy/AppData/putBoolean",
+    "url": "/legacy/Object/AppData/putBoolean",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "putInt": {
     "feature": "`putInt`",
-    "url": "/legacy/AppData/putInt",
+    "url": "/legacy/Object/AppData/putInt",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "putString": {
     "feature": "`putString`",
-    "url": "/legacy/AppData/putString",
+    "url": "/legacy/Object/AppData/putString",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "remove": {
     "feature": "`remove`",
-    "url": "/legacy/AppData/remove",
+    "url": "/legacy/Object/AppData/remove",
     "status": {
       "deprecated": false,
       "experimental": false,

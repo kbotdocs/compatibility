@@ -1,7 +1,7 @@
 {
   "onStop": {
     "feature": "`onStop` 이벤트 리스너",
-    "url": "/legacy/onStop",
+    "url": "/legacy/EventListener/onStop",
     "status": {
       "deprecated": false,
       "experimental": false,
