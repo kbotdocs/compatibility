@@ -23,7 +23,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -139,7 +139,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -168,7 +168,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -197,7 +197,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -226,7 +226,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -255,7 +255,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -284,7 +284,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -372,7 +372,7 @@
       "starLight": [
         {
           "status": "partial_support",
-          "version": "0.1.0",
+          "version": "0.1.0a",
           "description": "`getWebText(String, Boolean)`이 존재하지 않음."
         }
       ]
@@ -547,7 +547,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
@@ -576,7 +576,7 @@
       "starLight": [
         {
           "status": "full_support",
-          "version": "0.1.0"
+          "version": "0.1.0a"
         }
       ]
     }
