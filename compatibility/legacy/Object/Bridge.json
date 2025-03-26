@@ -1,0 +1,234 @@
+{
+  "Bridge": {
+    "feature": "`Bridge`",
+    "url": "/legacy/Bridge",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.1.2a"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "full_support",
+          "version": "0.1.0"
+        }
+      ]
+    }
+  },
+  "evaluateStringIn": {
+    "feature": "`evaluateStringIn`",
+    "url": "/legacy/Bridge/evaluateStringIn",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "getGlobalVariable": {
+    "feature": "`getGlobalVariable`",
+    "url": "/legacy/Bridge/getGlobalVariable",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": true
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "getScopeOf": {
+    "feature": "`getScopeOf`",
+    "url": "/legacy/Bridge/getScopeOf",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.1.2a"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "full_support",
+          "version": "0.1.0"
+        }
+      ]
+    }
+  },
+  "getVariable": {
+    "feature": "`getVariable`",
+    "url": "/legacy/Bridge/getVariable",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": true
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "isAllowed": {
+    "feature": "`isAllowed`",
+    "url": "/legacy/Bridge/isAllowed",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.1.2a"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "full_support",
+          "version": "0.1.0"
+        }
+      ]
+    }
+  },
+  "setGlobalVariable": {
+    "feature": "`setGlobalVariable`",
+    "url": "/legacy/Bridge/setGlobalVariable",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": true
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "setVariable": {
+    "feature": "`setVariable`",
+    "url": "/legacy/Bridge/setVariable",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": true
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "full_support",
+          "version": "1.0"
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  }
+}
