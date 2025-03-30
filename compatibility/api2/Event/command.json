@@ -1,7 +1,7 @@
 {
   "command": {
     "feature": "`command` 이벤트",
-    "url": "/api2/Argument/Command",
+    "url": "/api2/Event/command",
     "status": {
       "deprecated": false,
       "experimental": false,

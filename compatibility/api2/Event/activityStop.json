@@ -1,7 +1,7 @@
 {
   "activityStop": {
     "feature": "`activityStop` 이벤트",
-    "url": "/api2/Object/Event/activityStop",
+    "url": "/api2/Event/activityStop",
     "status": {
       "deprecated": false,
       "experimental": false,

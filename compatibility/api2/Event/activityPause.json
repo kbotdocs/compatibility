@@ -1,7 +1,7 @@
 {
   "activityPause": {
     "feature": "`activityPause` 이벤트",
-    "url": "/api2/Object/Event/activityPause",
+    "url": "/api2/Event/activityPause",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "notificationRemoved": {
     "feature": "`notificationRemoved` 이벤트",
-    "url": "/api2/Object/Event/notificationRemoved",
+    "url": "/api2/Event/notificationRemoved",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "activityStart": {
     "feature": "`activityStart` 이벤트",
-    "url": "/api2/Object/Event/activityStart",
+    "url": "/api2/Event/activityStart",
     "status": {
       "deprecated": false,
       "experimental": false,

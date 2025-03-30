@@ -1,7 +1,7 @@
 {
   "tick": {
     "feature": "`tick` 이벤트",
-    "url": "/api2/Object/Event/tick",
+    "url": "/api2/Event/tick",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "activityRestart": {
     "feature": "`activityRestart` 이벤트",
-    "url": "/api2/Object/Event/activityRestart",
+    "url": "/api2/Event/activityRestart",
     "status": {
       "deprecated": false,
       "experimental": false,
