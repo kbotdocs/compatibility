@@ -1,7 +1,7 @@
 {
   "Broadcast": {
     "feature": "`Broadcast`",
-    "url": "/api2/Object/Broadcast",
+    "url": "/reference/api2/Object/Broadcast",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "register": {
     "feature": "`register`",
-    "url": "/api2/Object/Broadcast/register",
+    "url": "/reference/api2/Object/Broadcast/register",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "send": {
     "feature": "`send`",
-    "url": "/api2/Object/Broadcast/send",
+    "url": "/reference/api2/Object/Broadcast/send",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "unregister": {
     "feature": "`unregister`",
-    "url": "/api2/Object/Broadcast/unregister",
+    "url": "/reference/api2/Object/Broadcast/unregister",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "unregisterAll": {
     "feature": "`unregisterAll`",
-    "url": "/api2/Object/Broadcast/unregisterAll",
+    "url": "/reference/api2/Object/Broadcast/unregisterAll",
     "status": {
       "deprecated": false,
       "experimental": false,

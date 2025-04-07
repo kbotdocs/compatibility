@@ -1,7 +1,7 @@
 {
   "DataBase": {
     "feature": "`DataBase`",
-    "url": "/legacy/Object/DataBase",
+    "url": "/reference/legacy/Object/DataBase",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "appendDataBase": {
     "feature": "`appendDataBase`",
-    "url": "/legacy/Object/DataBase/appendDataBase",
+    "url": "/reference/legacy/Object/DataBase/appendDataBase",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getDataBase": {
     "feature": "`getDataBase`",
-    "url": "/legacy/Object/DataBase/getDataBase",
+    "url": "/reference/legacy/Object/DataBase/getDataBase",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "removeDataBase": {
     "feature": "`removeDataBase`",
-    "url": "/legacy/Object/DataBase/removeDataBase",
+    "url": "/reference/legacy/Object/DataBase/removeDataBase",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "setDataBase": {
     "feature": "`setDataBase`",
-    "url": "/legacy/Object/DataBase/setDataBase",
+    "url": "/reference/legacy/Object/DataBase/setDataBase",
     "status": {
       "deprecated": false,
       "experimental": false,

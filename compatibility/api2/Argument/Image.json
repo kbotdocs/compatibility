@@ -1,7 +1,7 @@
 {
   "Image": {
     "feature": "`Image`",
-    "url": "/api2/Argument/Image",
+    "url": "/reference/api2/Argument/Image",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "getBase64": {
     "feature": "`getBase64`",
-    "url": "/api2/Argument/Image/getBase64",
+    "url": "/reference/api2/Argument/Image/getBase64",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getBitmap": {
     "feature": "`getBitmap`",
-    "url": "/api2/Argument/Image/getBitmap",
+    "url": "/reference/api2/Argument/Image/getBitmap",
     "status": {
       "deprecated": false,
       "experimental": false,

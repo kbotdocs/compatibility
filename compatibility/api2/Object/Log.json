@@ -1,7 +1,7 @@
 {
   "Log": {
     "feature": "`Log`",
-    "url": "/api2/Object/Log",
+    "url": "/reference/api2/Object/Log",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "clear": {
     "feature": "`clear`",
-    "url": "/api2/Object/Log/clear",
+    "url": "/reference/api2/Object/Log/clear",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "d": {
     "feature": "`d`",
-    "url": "/api2/Object/Log/d",
+    "url": "/reference/api2/Object/Log/d",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "debug": {
     "feature": "`debug`",
-    "url": "/api2/Object/Log/debug",
+    "url": "/reference/api2/Object/Log/debug",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "e": {
     "feature": "`e`",
-    "url": "/api2/Object/Log/e",
+    "url": "/reference/api2/Object/Log/e",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "error": {
     "feature": "`error`",
-    "url": "/api2/Object/Log/error",
+    "url": "/reference/api2/Object/Log/error",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "i": {
     "feature": "`i`",
-    "url": "/api2/Object/Log/i",
+    "url": "/reference/api2/Object/Log/i",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "info": {
     "feature": "`info`",
-    "url": "/api2/Object/Log/info",
+    "url": "/reference/api2/Object/Log/info",
     "status": {
       "deprecated": false,
       "experimental": false,

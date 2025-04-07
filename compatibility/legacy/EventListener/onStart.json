@@ -1,7 +1,7 @@
 {
   "onStart": {
     "feature": "`onStart` 이벤트 리스너",
-    "url": "/legacy/EventListener/onStart",
+    "url": "/reference/legacy/EventListener/onStart",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "Bot": {
     "feature": "`Bot`",
-    "url": "/api2/Object/Bot",
+    "url": "/reference/api2/Object/Bot",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "addListener": {
     "feature": "`addListener`",
-    "url": "/api2/Object/Bot/addListener",
+    "url": "/reference/api2/Object/Bot/addListener",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "canReply": {
     "feature": "`canReply`",
-    "url": "/api2/Object/Bot/canReply",
+    "url": "/reference/api2/Object/Bot/canReply",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -100,7 +100,7 @@
   },
   "compile": {
     "feature": "`compile`",
-    "url": "/api2/Object/Bot/compile",
+    "url": "/reference/api2/Object/Bot/compile",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -129,7 +129,7 @@
   },
   "getName": {
     "feature": "`getName`",
-    "url": "/api2/Object/Bot/getName",
+    "url": "/reference/api2/Object/Bot/getName",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -158,7 +158,7 @@
   },
   "getPower": {
     "feature": "`getPower`",
-    "url": "/api2/Object/Bot/getPower",
+    "url": "/reference/api2/Object/Bot/getPower",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -187,7 +187,7 @@
   },
   "listeners": {
     "feature": "`listeners`",
-    "url": "/api2/Object/Bot/listeners",
+    "url": "/reference/api2/Object/Bot/listeners",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -216,7 +216,7 @@
   },
   "markAsRead": {
     "feature": "`markAsRead`",
-    "url": "/api2/Object/Bot/markAsRead",
+    "url": "/reference/api2/Object/Bot/markAsRead",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -257,7 +257,7 @@
   },
   "off": {
     "feature": "`off`",
-    "url": "/api2/Object/Bot/off",
+    "url": "/reference/api2/Object/Bot/off",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -286,7 +286,7 @@
   },
   "on": {
     "feature": "`on`",
-    "url": "/api2/Object/Bot/on",
+    "url": "/reference/api2/Object/Bot/on",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -315,7 +315,7 @@
   },
   "prependListener": {
     "feature": "`prependListener`",
-    "url": "/api2/Object/Bot/prependListener",
+    "url": "/reference/api2/Object/Bot/prependListener",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -344,7 +344,7 @@
   },
   "removeAllListeners": {
     "feature": "`removeAllListeners`",
-    "url": "/api2/Object/Bot/removeAllListeners",
+    "url": "/reference/api2/Object/Bot/removeAllListeners",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -373,7 +373,7 @@
   },
   "removeListener": {
     "feature": "`removeListener`",
-    "url": "/api2/Object/Bot/removeListener",
+    "url": "/reference/api2/Object/Bot/removeListener",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -402,7 +402,7 @@
   },
   "send": {
     "feature": "`send`",
-    "url": "/api2/Object/Bot/send",
+    "url": "/reference/api2/Object/Bot/send",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -446,7 +446,7 @@
   },
   "setCommandPrefix": {
     "feature": "`setCommandPrefix`",
-    "url": "/api2/Object/Bot/setCommandPrefix",
+    "url": "/reference/api2/Object/Bot/setCommandPrefix",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -475,7 +475,7 @@
   },
   "setPower": {
     "feature": "`setPower`",
-    "url": "/api2/Object/Bot/setPower",
+    "url": "/reference/api2/Object/Bot/setPower",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -504,7 +504,7 @@
   },
   "unload": {
     "feature": "`unload`",
-    "url": "/api2/Object/Bot/unload",
+    "url": "/reference/api2/Object/Bot/unload",
     "status": {
       "deprecated": false,
       "experimental": false,

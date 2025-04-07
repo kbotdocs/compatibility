@@ -1,7 +1,7 @@
 {
   "Command": {
     "feature": "`Command`",
-    "url": "/api2/Argument/Command",
+    "url": "/reference/api2/Argument/Command",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "args": {
     "feature": "`args`",
-    "url": "/api2/Argument/Command/args",
+    "url": "/reference/api2/Argument/Command/args",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "author": {
     "feature": "`author`",
-    "url": "/api2/Argument/Command/author",
+    "url": "/reference/api2/Argument/Command/author",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "channelId": {
     "feature": "`channelId`",
-    "url": "/api2/Argument/Command/channelId",
+    "url": "/reference/api2/Argument/Command/channelId",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "command": {
     "feature": "`command`",
-    "url": "/api2/Argument/Command/command",
+    "url": "/reference/api2/Argument/Command/command",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "content": {
     "feature": "`content`",
-    "url": "/api2/Argument/Command/content",
+    "url": "/reference/api2/Argument/Command/content",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "image": {
     "feature": "`image`",
-    "url": "/api2/Argument/Command/image",
+    "url": "/reference/api2/Argument/Command/image",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "isDebugRoom": {
     "feature": "`isDebugRoom`",
-    "url": "/api2/Argument/Command/isDebugRoom",
+    "url": "/reference/api2/Argument/Command/isDebugRoom",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "isGroupChat": {
     "feature": "`isGroupChat`",
-    "url": "/api2/Argument/Command/isGroupChat",
+    "url": "/reference/api2/Argument/Command/isGroupChat",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "isMention": {
     "feature": "`isMention`",
-    "url": "/api2/Argument/Command/isMention",
+    "url": "/reference/api2/Argument/Command/isMention",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "isMultiChat": {
     "feature": "`isMultiChat`",
-    "url": "/api2/Argument/Command/isMultiChat",
+    "url": "/reference/api2/Argument/Command/isMultiChat",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "logId": {
     "feature": "`logId`",
-    "url": "/api2/Argument/Command/logId",
+    "url": "/reference/api2/Argument/Command/logId",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "packageName": {
     "feature": "`packageName`",
-    "url": "/api2/Argument/Command/packageName",
+    "url": "/reference/api2/Argument/Command/packageName",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -378,7 +378,7 @@
   },
   "room": {
     "feature": "`room`",
-    "url": "/api2/Argument/Command/room",
+    "url": "/reference/api2/Argument/Command/room",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -407,7 +407,7 @@
   },
   "markAsRead": {
     "feature": "`markAsRead`",
-    "url": "/api2/Argument/Command/markAsRead",
+    "url": "/reference/api2/Argument/Command/markAsRead",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -436,7 +436,7 @@
   },
   "reply": {
     "feature": "`reply`",
-    "url": "/api2/Argument/Command/reply",
+    "url": "/reference/api2/Argument/Command/reply",
     "status": {
       "deprecated": false,
       "experimental": false,

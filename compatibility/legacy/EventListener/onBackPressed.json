@@ -1,7 +1,7 @@
 {
   "onBackPressed": {
     "feature": "`onBackPressed` 이벤트 리스너",
-    "url": "/legacy/EventListener/onBackPressed",
+    "url": "/reference/legacy/EventListener/onBackPressed",
     "status": {
       "deprecated": false,
       "experimental": false,

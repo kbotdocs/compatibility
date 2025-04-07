@@ -1,7 +1,7 @@
 {
   "FileStream": {
     "feature": "`FileStream`",
-    "url": "/legacy/Object/FileStream",
+    "url": "/reference/legacy/Object/FileStream",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "append": {
     "feature": "`append`",
-    "url": "/legacy/Object/FileStream/append",
+    "url": "/reference/legacy/Object/FileStream/append",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "copyFile": {
     "feature": "`copyFile`",
-    "url": "/legacy/Object/FileStream/copyFile",
+    "url": "/reference/legacy/Object/FileStream/copyFile",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "create": {
     "feature": "`create`",
-    "url": "/legacy/Object/FileStream/create",
+    "url": "/reference/legacy/Object/FileStream/create",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "createDir": {
     "feature": "`createDir`",
-    "url": "/legacy/Object/FileStream/createDir",
+    "url": "/reference/legacy/Object/FileStream/createDir",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "getSdcardPath": {
     "feature": "`getSdcardPath`",
-    "url": "/legacy/Object/FileStream/getSdcardPath",
+    "url": "/reference/legacy/Object/FileStream/getSdcardPath",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "moveFile": {
     "feature": "`moveFile`",
-    "url": "/legacy/Object/FileStream/moveFile",
+    "url": "/reference/legacy/Object/FileStream/moveFile",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "read": {
     "feature": "`read`",
-    "url": "/legacy/Object/FileStream/read",
+    "url": "/reference/legacy/Object/FileStream/read",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "readJSON": {
     "feature": "`readJSON`",
-    "url": "/legacy/Object/FileStream/readJSON",
+    "url": "/reference/legacy/Object/FileStream/readJSON",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "remove": {
     "feature": "`remove`",
-    "url": "/legacy/Object/FileStream/remove",
+    "url": "/reference/legacy/Object/FileStream/remove",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "save": {
     "feature": "`save`",
-    "url": "/legacy/Object/FileStream/save",
+    "url": "/reference/legacy/Object/FileStream/save",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "saveJSON": {
     "feature": "`saveJSON`",
-    "url": "/legacy/Object/FileStream/saveJSON",
+    "url": "/reference/legacy/Object/FileStream/saveJSON",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "write": {
     "feature": "`write`",
-    "url": "/legacy/Object/FileStream/write",
+    "url": "/reference/legacy/Object/FileStream/write",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -382,7 +382,7 @@
   },
   "writeJSON": {
     "feature": "`writeJSON`",
-    "url": "/legacy/Object/FileStream/writeJSON",
+    "url": "/reference/legacy/Object/FileStream/writeJSON",
     "status": {
       "deprecated": false,
       "experimental": false,

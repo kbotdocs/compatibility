@@ -1,7 +1,7 @@
 {
   "console": {
     "feature": "`console`",
-    "url": "/legacy/Object/console",
+    "url": "/reference/legacy/Object/console",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -30,7 +30,7 @@
   },
   "debug": {
     "feature": "`debug`",
-    "url": "/legacy/Object/console/debug",
+    "url": "/reference/legacy/Object/console/debug",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -59,7 +59,7 @@
   },
   "error": {
     "feature": "`error`",
-    "url": "/legacy/Object/console/error",
+    "url": "/reference/legacy/Object/console/error",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -88,7 +88,7 @@
   },
   "info": {
     "feature": "`info`",
-    "url": "/legacy/Object/console/info",
+    "url": "/reference/legacy/Object/console/info",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -117,7 +117,7 @@
   },
   "log": {
     "feature": "`log`",
-    "url": "/legacy/Object/console/log",
+    "url": "/reference/legacy/Object/console/log",
     "status": {
       "deprecated": false,
       "experimental": true,

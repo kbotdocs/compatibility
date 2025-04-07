@@ -1,7 +1,7 @@
 {
   "onResume": {
     "feature": "`onResume` 이벤트 리스너",
-    "url": "/legacy/EventListener/onResume",
+    "url": "/reference/legacy/EventListener/onResume",
     "status": {
       "deprecated": false,
       "experimental": false,

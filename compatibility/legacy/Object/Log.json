@@ -1,7 +1,7 @@
 {
   "Log": {
     "feature": "`Log`",
-    "url": "/legacy/Object/Log",
+    "url": "/reference/legacy/Object/Log",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "clear": {
     "feature": "`clear`",
-    "url": "/legacy/Object/Log/clear",
+    "url": "/reference/legacy/Object/Log/clear",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "d": {
     "feature": "`d`",
-    "url": "/legacy/Object/Log/d",
+    "url": "/reference/legacy/Object/Log/d",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "debug": {
     "feature": "`debug`",
-    "url": "/legacy/Object/Log/debug",
+    "url": "/reference/legacy/Object/Log/debug",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "e": {
     "feature": "`e`",
-    "url": "/legacy/Object/Log/e",
+    "url": "/reference/legacy/Object/Log/e",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "error": {
     "feature": "`error`",
-    "url": "/legacy/Object/Log/error",
+    "url": "/reference/legacy/Object/Log/error",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "i": {
     "feature": "`i`",
-    "url": "/legacy/Object/Log/i",
+    "url": "/reference/legacy/Object/Log/i",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "info": {
     "feature": "`info`",
-    "url": "/legacy/Object/Log/info",
+    "url": "/reference/legacy/Object/Log/info",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "onNotificationPosted": {
     "feature": "`onNotificationPosted` 이벤트 리스너",
-    "url": "/legacy/EventListener/onNotificationPosted",
+    "url": "/reference/legacy/EventListener/onNotificationPosted",
     "status": {
       "deprecated": false,
       "experimental": false,

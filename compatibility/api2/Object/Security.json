@@ -1,7 +1,7 @@
 {
   "Security": {
     "feature": "`Security`",
-    "url": "/api2/Object/Security",
+    "url": "/reference/api2/Object/Security",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "aesDecode": {
     "feature": "`aesDecode`",
-    "url": "/api2/Object/Security/aesDecode",
+    "url": "/reference/api2/Object/Security/aesDecode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "aesEncode": {
     "feature": "`aesEncode`",
-    "url": "/api2/Object/Security/aesEncode",
+    "url": "/reference/api2/Object/Security/aesEncode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "ariaDecode": {
     "feature": "`ariaDecode`",
-    "url": "/api2/Object/Security/ariaDecode",
+    "url": "/reference/api2/Object/Security/ariaDecode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "ariaDecodeRaw": {
     "feature": "`ariaDecodeRaw`",
-    "url": "/api2/Object/Security/ariaDecodeRaw",
+    "url": "/reference/api2/Object/Security/ariaDecodeRaw",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "ariaEncode": {
     "feature": "`ariaEncode`",
-    "url": "/api2/Object/Security/ariaEncode",
+    "url": "/reference/api2/Object/Security/ariaEncode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "ariaEncodeRaw": {
     "feature": "`ariaEncodeRaw`",
-    "url": "/api2/Object/Security/ariaEncodeRaw",
+    "url": "/reference/api2/Object/Security/ariaEncodeRaw",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "base32Decode": {
     "feature": "`base32Decode`",
-    "url": "/api2/Object/Security/base32Decode",
+    "url": "/reference/api2/Object/Security/base32Decode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "base32Encode": {
     "feature": "`base32Encode`",
-    "url": "/api2/Object/Security/base32Encode",
+    "url": "/reference/api2/Object/Security/base32Encode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "base64Decode": {
     "feature": "`base64Decode`",
-    "url": "/api2/Object/Security/base64Decode",
+    "url": "/reference/api2/Object/Security/base64Decode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "base64Encode": {
     "feature": "`base64Encode`",
-    "url": "/api2/Object/Security/base64Encode",
+    "url": "/reference/api2/Object/Security/base64Encode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "des3Decode": {
     "feature": "`des3Decode`",
-    "url": "/api2/Object/Security/des3Decode",
+    "url": "/reference/api2/Object/Security/des3Decode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "des3Encode": {
     "feature": "`des3Encode`",
-    "url": "/api2/Object/Security/des3Encode",
+    "url": "/reference/api2/Object/Security/des3Encode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -378,7 +378,7 @@
   },
   "desDecode": {
     "feature": "`desDecode`",
-    "url": "/api2/Object/Security/desDecode",
+    "url": "/reference/api2/Object/Security/desDecode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -407,7 +407,7 @@
   },
   "desEncode": {
     "feature": "`desEncode`",
-    "url": "/api2/Object/Security/desEncode",
+    "url": "/reference/api2/Object/Security/desEncode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -436,7 +436,7 @@
   },
   "desKey": {
     "feature": "`desKey`",
-    "url": "/api2/Object/Security/desKey",
+    "url": "/reference/api2/Object/Security/desKey",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -465,7 +465,7 @@
   },
   "eccDecode": {
     "feature": "`eccDecode`",
-    "url": "/api2/Object/Security/eccDecode",
+    "url": "/reference/api2/Object/Security/eccDecode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -498,7 +498,7 @@
   },
   "eccEncode": {
     "feature": "`eccEncode`",
-    "url": "/api2/Object/Security/eccEncode",
+    "url": "/reference/api2/Object/Security/eccEncode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -531,7 +531,7 @@
   },
   "getDesKey": {
     "feature": "`getDesKey`",
-    "url": "/api2/Object/Security/getDesKey",
+    "url": "/reference/api2/Object/Security/getDesKey",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -561,7 +561,7 @@
   },
   "hashCode": {
     "feature": "`hashCode`",
-    "url": "/api2/Object/Security/hashCode",
+    "url": "/reference/api2/Object/Security/hashCode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -590,7 +590,7 @@
   },
   "md2": {
     "feature": "`md2`",
-    "url": "/api2/Object/Security/md2",
+    "url": "/reference/api2/Object/Security/md2",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -619,7 +619,7 @@
   },
   "md5": {
     "feature": "`md5`",
-    "url": "/api2/Object/Security/md5",
+    "url": "/reference/api2/Object/Security/md5",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -648,7 +648,7 @@
   },
   "md55": {
     "feature": "`md55`",
-    "url": "/api2/Object/Security/md55",
+    "url": "/reference/api2/Object/Security/md55",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -677,7 +677,7 @@
   },
   "rc4Decode": {
     "feature": "`rc4Decode`",
-    "url": "/api2/Object/Security/rc4Decode",
+    "url": "/reference/api2/Object/Security/rc4Decode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -706,7 +706,7 @@
   },
   "rc4Encode": {
     "feature": "`rc4Encode`",
-    "url": "/api2/Object/Security/rc4Encode",
+    "url": "/reference/api2/Object/Security/rc4Encode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -735,7 +735,7 @@
   },
   "seedDecode": {
     "feature": "`seedDecode`",
-    "url": "/api2/Object/Security/seedDecode",
+    "url": "/reference/api2/Object/Security/seedDecode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -764,7 +764,7 @@
   },
   "seedEncode": {
     "feature": "`seedEncode`",
-    "url": "/api2/Object/Security/seedEncode",
+    "url": "/reference/api2/Object/Security/seedEncode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -793,7 +793,7 @@
   },
   "sha": {
     "feature": "`sha`",
-    "url": "/api2/Object/Security/sha",
+    "url": "/reference/api2/Object/Security/sha",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -822,7 +822,7 @@
   },
   "sha3_224": {
     "feature": "`sha3_224`",
-    "url": "/api2/Object/Security/sha3_224",
+    "url": "/reference/api2/Object/Security/sha3_224",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -851,7 +851,7 @@
   },
   "sha3_256": {
     "feature": "`sha3_256`",
-    "url": "/api2/Object/Security/sha3_256",
+    "url": "/reference/api2/Object/Security/sha3_256",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -880,7 +880,7 @@
   },
   "sha3_384": {
     "feature": "`sha3_384`",
-    "url": "/api2/Object/Security/sha3_384",
+    "url": "/reference/api2/Object/Security/sha3_384",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -909,7 +909,7 @@
   },
   "sha3_512": {
     "feature": "`sha3_512`",
-    "url": "/api2/Object/Security/sha3_512",
+    "url": "/reference/api2/Object/Security/sha3_512",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -938,7 +938,7 @@
   },
   "sha256": {
     "feature": "`sha256`",
-    "url": "/api2/Object/Security/sha256",
+    "url": "/reference/api2/Object/Security/sha256",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -967,7 +967,7 @@
   },
   "sha384": {
     "feature": "`sha384`",
-    "url": "/api2/Object/Security/sha384",
+    "url": "/reference/api2/Object/Security/sha384",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -996,7 +996,7 @@
   },
   "sha512": {
     "feature": "`sha512`",
-    "url": "/api2/Object/Security/sha512",
+    "url": "/reference/api2/Object/Security/sha512",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -1025,7 +1025,7 @@
   },
   "ulid": {
     "feature": "`ulid`",
-    "url": "/api2/Object/Security/ulid",
+    "url": "/reference/api2/Object/Security/ulid",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -1054,7 +1054,7 @@
   },
   "uuid": {
     "feature": "`uuid`",
-    "url": "/api2/Object/Security/uuid",
+    "url": "/reference/api2/Object/Security/uuid",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -1083,7 +1083,7 @@
   },
   "uuidv7": {
     "feature": "`uuidv7`",
-    "url": "/api2/Object/Security/uuidv7",
+    "url": "/reference/api2/Object/Security/uuidv7",
     "status": {
       "deprecated": false,
       "experimental": false,

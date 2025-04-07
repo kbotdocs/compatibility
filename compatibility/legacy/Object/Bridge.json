@@ -1,7 +1,7 @@
 {
   "Bridge": {
     "feature": "`Bridge`",
-    "url": "/legacy/Object/Bridge",
+    "url": "/reference/legacy/Object/Bridge",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "evaluateStringIn": {
     "feature": "`evaluateStringIn`",
-    "url": "/legacy/Object/Bridge/evaluateStringIn",
+    "url": "/reference/legacy/Object/Bridge/evaluateStringIn",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getGlobalVariable": {
     "feature": "`getGlobalVariable`",
-    "url": "/legacy/Object/Bridge/getGlobalVariable",
+    "url": "/reference/legacy/Object/Bridge/getGlobalVariable",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "getScopeOf": {
     "feature": "`getScopeOf`",
-    "url": "/legacy/Object/Bridge/getScopeOf",
+    "url": "/reference/legacy/Object/Bridge/getScopeOf",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getVariable": {
     "feature": "`getVariable`",
-    "url": "/legacy/Object/Bridge/getVariable",
+    "url": "/reference/legacy/Object/Bridge/getVariable",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "isAllowed": {
     "feature": "`isAllowed`",
-    "url": "/legacy/Object/Bridge/isAllowed",
+    "url": "/reference/legacy/Object/Bridge/isAllowed",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "setGlobalVariable": {
     "feature": "`setGlobalVariable`",
-    "url": "/legacy/Object/Bridge/setGlobalVariable",
+    "url": "/reference/legacy/Object/Bridge/setGlobalVariable",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "setVariable": {
     "feature": "`setVariable`",
-    "url": "/legacy/Object/Bridge/setVariable",
+    "url": "/reference/legacy/Object/Bridge/setVariable",
     "status": {
       "deprecated": false,
       "experimental": false,

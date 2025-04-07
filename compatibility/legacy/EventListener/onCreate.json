@@ -1,7 +1,7 @@
 {
   "onCreate": {
     "feature": "`onCreate` 이벤트 리스너",
-    "url": "/legacy/EventListener/onCreate",
+    "url": "/reference/legacy/EventListener/onCreate",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "Event": {
     "feature": "`Event`",
-    "url": "/api2/Object/Event",
+    "url": "/reference/api2/Object/Event",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "Activity.BACK_PRESSED": {
     "feature": "`Activity.BACK_PRESSED`",
-    "url": "/api2/Object/Event/Activity.BACK_PRESSED",
+    "url": "/reference/api2/Object/Event/Activity.BACK_PRESSED",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "Activity.CREATE": {
     "feature": "`Activity.CREATE`",
-    "url": "/api2/Object/Event/Activity.CREATE",
+    "url": "/reference/api2/Object/Event/Activity.CREATE",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "Activity.DESTROY": {
     "feature": "`Activity.DESTROY`",
-    "url": "/api2/Object/Event/Activity.DESTROY",
+    "url": "/reference/api2/Object/Event/Activity.DESTROY",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "Activity.PAUSE": {
     "feature": "`Activity.PAUSE`",
-    "url": "/api2/Object/Event/Activity.PAUSE",
+    "url": "/reference/api2/Object/Event/Activity.PAUSE",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "Activity.RESTART": {
     "feature": "`Activity.RESTART`",
-    "url": "/api2/Object/Event/Activity.RESTART",
+    "url": "/reference/api2/Object/Event/Activity.RESTART",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "Activity.RESUME": {
     "feature": "`Activity.RESUME`",
-    "url": "/api2/Object/Event/Activity.RESUME",
+    "url": "/reference/api2/Object/Event/Activity.RESUME",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "Activity.START": {
     "feature": "`Activity.START`",
-    "url": "/api2/Object/Event/Activity.START",
+    "url": "/reference/api2/Object/Event/Activity.START",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "Activity.STOP": {
     "feature": "`Activity.STOP`",
-    "url": "/api2/Object/Event/Activity.STOP",
+    "url": "/reference/api2/Object/Event/Activity.STOP",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "BATTERY_LEVEL_CHANGED": {
     "feature": "`BATTERY_LEVEL_CHANGED`",
-    "url": "/api2/Object/Event/BATTERY_LEVEL_CHANGED",
+    "url": "/reference/api2/Object/Event/BATTERY_LEVEL_CHANGED",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "COMMAND": {
     "feature": "`COMMAND`",
-    "url": "/api2/Object/Event/COMMAND",
+    "url": "/reference/api2/Object/Event/COMMAND",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "MESSAGE": {
     "feature": "`MESSAGE`",
-    "url": "/api2/Object/Event/MESSAGE",
+    "url": "/reference/api2/Object/Event/MESSAGE",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "NOTIFICATION_POSTED": {
     "feature": "`NOTIFICATION_POSTED`",
-    "url": "/api2/Object/Event/NOTIFICATION_POSTED",
+    "url": "/reference/api2/Object/Event/NOTIFICATION_POSTED",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -378,7 +378,7 @@
   },
   "NOTIFICATION_REMOVED": {
     "feature": "`NOTIFICATION_REMOVED`",
-    "url": "/api2/Object/Event/NOTIFICATION_REMOVED",
+    "url": "/reference/api2/Object/Event/NOTIFICATION_REMOVED",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -407,7 +407,7 @@
   },
   "START_COMPILE": {
     "feature": "`START_COMPILE`",
-    "url": "/api2/Object/Event/START_COMPILE",
+    "url": "/reference/api2/Object/Event/START_COMPILE",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -436,7 +436,7 @@
   },
   "TICK": {
     "feature": "`TICK`",
-    "url": "/api2/Object/Event/TICK",
+    "url": "/reference/api2/Object/Event/TICK",
     "status": {
       "deprecated": false,
       "experimental": false,

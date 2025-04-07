@@ -1,7 +1,7 @@
 {
   "Api": {
     "feature": "`Api`",
-    "url": "/legacy/Object/Api",
+    "url": "/reference/legacy/Object/Api",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "canReply": {
     "feature": "`canReply`",
-    "url": "/legacy/Object/Api/canReply",
+    "url": "/reference/legacy/Object/Api/canReply",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "compile": {
     "feature": "`compile`",
-    "url": "/legacy/Object/Api/compile",
+    "url": "/reference/legacy/Object/Api/compile",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -89,7 +89,7 @@
   },
   "gc": {
     "feature": "`gc`",
-    "url": "/legacy/Object/Api/gc",
+    "url": "/reference/legacy/Object/Api/gc",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -118,7 +118,7 @@
   },
   "getActiveThreadsCount": {
     "feature": "`getActiveThreadsCount`",
-    "url": "/legacy/Object/Api/getActiveThreadsCount",
+    "url": "/reference/legacy/Object/Api/getActiveThreadsCount",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -147,7 +147,7 @@
   },
   "getContext": {
     "feature": "`getContext`",
-    "url": "/legacy/Object/Api/getContext",
+    "url": "/reference/legacy/Object/Api/getContext",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -176,7 +176,7 @@
   },
   "getLastImage": {
     "feature": "`getLastImage`",
-    "url": "/legacy/Object/Api/getLastImage",
+    "url": "/reference/legacy/Object/Api/getLastImage",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -205,7 +205,7 @@
   },
   "getLastImageBitmap": {
     "feature": "`getLastImageBitmap`",
-    "url": "/legacy/Object/Api/getLastImageBitmap",
+    "url": "/reference/legacy/Object/Api/getLastImageBitmap",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -234,7 +234,7 @@
   },
   "getRoomList": {
     "feature": "`getRoomList`",
-    "url": "/legacy/Object/Api/getRoomList",
+    "url": "/reference/legacy/Object/Api/getRoomList",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -263,7 +263,7 @@
   },
   "getScriptNames": {
     "feature": "`getScriptNames`",
-    "url": "/legacy/Object/Api/getScriptNames",
+    "url": "/reference/legacy/Object/Api/getScriptNames",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -292,7 +292,7 @@
   },
   "interruptThreads": {
     "feature": "`interruptThreads`",
-    "url": "/legacy/Object/Api/interruptThreads",
+    "url": "/reference/legacy/Object/Api/interruptThreads",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -321,7 +321,7 @@
   },
   "isCompiled": {
     "feature": "`isCompiled`",
-    "url": "/legacy/Object/Api/isCompiled",
+    "url": "/reference/legacy/Object/Api/isCompiled",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -350,7 +350,7 @@
   },
   "isCompiling": {
     "feature": "`isCompiling`",
-    "url": "/legacy/Object/Api/isCompiling",
+    "url": "/reference/legacy/Object/Api/isCompiling",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -379,7 +379,7 @@
   },
   "isOn": {
     "feature": "`isOn`",
-    "url": "/legacy/Object/Api/isOn",
+    "url": "/reference/legacy/Object/Api/isOn",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -408,7 +408,7 @@
   },
   "isTerminated": {
     "feature": "`isTerminated`",
-    "url": "/legacy/Object/Api/isTerminated",
+    "url": "/reference/legacy/Object/Api/isTerminated",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -437,7 +437,7 @@
   },
   "makeNoti": {
     "feature": "`makeNoti`",
-    "url": "/legacy/Object/Api/makeNoti",
+    "url": "/reference/legacy/Object/Api/makeNoti",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -466,7 +466,7 @@
   },
   "markAsRead": {
     "feature": "`markAsRead`",
-    "url": "/legacy/Object/Api/markAsRead",
+    "url": "/reference/legacy/Object/Api/markAsRead",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -495,7 +495,7 @@
   },
   "markAsReadOnID(BigInt)": {
     "feature": "`markAsReadOnID(BigInt)`",
-    "url": "/legacy/Object/Api/markAsReadOnID(BigInt)",
+    "url": "/reference/legacy/Object/Api/markAsReadOnID(BigInt)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -524,7 +524,7 @@
   },
   "markAsReadOnID(String)": {
     "feature": "`markAsReadOnID(String)`",
-    "url": "/legacy/Object/Api/markAsReadOnID(String)",
+    "url": "/reference/legacy/Object/Api/markAsReadOnID(String)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -553,7 +553,7 @@
   },
   "off": {
     "feature": "`off`",
-    "url": "/legacy/Object/Api/off",
+    "url": "/reference/legacy/Object/Api/off",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -582,7 +582,7 @@
   },
   "on": {
     "feature": "`on`",
-    "url": "/legacy/Object/Api/on",
+    "url": "/reference/legacy/Object/Api/on",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -611,7 +611,7 @@
   },
   "papagoTranslate": {
     "feature": "`papagoTranslate`",
-    "url": "/legacy/Object/Api/papagoTranslate",
+    "url": "/reference/legacy/Object/Api/papagoTranslate",
     "status": {
       "deprecated": true,
       "experimental": false,
@@ -648,7 +648,7 @@
   },
   "prepare": {
     "feature": "`prepare`",
-    "url": "/legacy/Object/Api/prepare",
+    "url": "/reference/legacy/Object/Api/prepare",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -677,7 +677,7 @@
   },
   "reload": {
     "feature": "`reload`",
-    "url": "/legacy/Object/Api/reload",
+    "url": "/reference/legacy/Object/Api/reload",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -707,7 +707,7 @@
   },
   "replyRoom": {
     "feature": "`replyRoom`",
-    "url": "/legacy/Object/Api/replyRoom",
+    "url": "/reference/legacy/Object/Api/replyRoom",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -736,7 +736,7 @@
   },
   "replyToID(BigInt,String,Boolean$)": {
     "feature": "`replyToID(BigInt, String, Boolean?)`",
-    "url": "/legacy/Object/Api/replyToID(BigInt,String,Boolean$)",
+    "url": "/reference/legacy/Object/Api/replyToID(BigInt,String,Boolean$)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -765,7 +765,7 @@
   },
   "replyToID(String,String,Boolean$)": {
     "feature": "`replyToID(String, String, Boolean?)`",
-    "url": "/legacy/Object/Api/replyToID(String,String,Boolean$)",
+    "url": "/reference/legacy/Object/Api/replyToID(String,String,Boolean$)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -794,7 +794,7 @@
   },
   "showToast": {
     "feature": "`showToast`",
-    "url": "/legacy/Object/Api/showToast",
+    "url": "/reference/legacy/Object/Api/showToast",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -823,7 +823,7 @@
   },
   "UIThread": {
     "feature": "`UIThread`",
-    "url": "/legacy/Object/Api/UIThread",
+    "url": "/reference/legacy/Object/Api/UIThread",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -853,7 +853,7 @@
   },
   "unload": {
     "feature": "`unload`",
-    "url": "/legacy/Object/Api/unload",
+    "url": "/reference/legacy/Object/Api/unload",
     "status": {
       "deprecated": false,
       "experimental": false,

@@ -1,7 +1,7 @@
 {
   "startCompile": {
     "feature": "`startCompile` 이벤트",
-    "url": "/api2/Event/startCompile",
+    "url": "/reference/api2/Event/startCompile",
     "status": {
       "deprecated": false,
       "experimental": false,

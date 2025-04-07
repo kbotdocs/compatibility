@@ -1,7 +1,7 @@
 {
   "Utils": {
     "feature": "`Utils`",
-    "url": "/legacy/Object/Utils",
+    "url": "/reference/legacy/Object/Utils",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "compress": {
     "feature": "`compress`",
-    "url": "/legacy/Object/Utils/compress",
+    "url": "/reference/legacy/Object/Utils/compress",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "copyToClipboard": {
     "feature": "`copyToClipboard`",
-    "url": "/legacy/Object/Utils/copyToClipboard",
+    "url": "/reference/legacy/Object/Utils/copyToClipboard",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "delay": {
     "feature": "`delay`",
-    "url": "/legacy/Object/Utils/delay",
+    "url": "/reference/legacy/Object/Utils/delay",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getAndroidVersionCode": {
     "feature": "`getAndroidVersionCode`",
-    "url": "/legacy/Object/Utils/getAndroidVersionCode",
+    "url": "/reference/legacy/Object/Utils/getAndroidVersionCode",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "getAndroidVersionName": {
     "feature": "`getAndroidVersionName`",
-    "url": "/legacy/Object/Utils/getAndroidVersionName",
+    "url": "/reference/legacy/Object/Utils/getAndroidVersionName",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "getLw": {
     "feature": "`getLw`",
-    "url": "/legacy/Object/Utils/getLw",
+    "url": "/reference/legacy/Object/Utils/getLw",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "getLwLined": {
     "feature": "`getLwLined`",
-    "url": "/legacy/Object/Utils/getLwLined",
+    "url": "/reference/legacy/Object/Utils/getLwLined",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "getPhoneBrand": {
     "feature": "`getPhoneBrand`",
-    "url": "/legacy/Object/Utils/getPhoneBrand",
+    "url": "/reference/legacy/Object/Utils/getPhoneBrand",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -262,7 +262,7 @@
   },
   "getPhoneModel": {
     "feature": "`getPhoneModel`",
-    "url": "/legacy/Object/Utils/getPhoneModel",
+    "url": "/reference/legacy/Object/Utils/getPhoneModel",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -291,7 +291,7 @@
   },
   "getRandomUserAgent": {
     "feature": "`getRandomUserAgent`",
-    "url": "/legacy/Object/Utils/getRandomUserAgent",
+    "url": "/reference/legacy/Object/Utils/getRandomUserAgent",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -320,7 +320,7 @@
   },
   "getWeatherJSON": {
     "feature": "`getWeatherJSON`",
-    "url": "/legacy/Object/Utils/getWeatherJSON",
+    "url": "/reference/legacy/Object/Utils/getWeatherJSON",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -349,7 +349,7 @@
   },
   "getWebText": {
     "feature": "`getWebText`",
-    "url": "/legacy/Object/Utils/getWebText",
+    "url": "/reference/legacy/Object/Utils/getWebText",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -380,7 +380,7 @@
   },
   "getWebText2": {
     "feature": "`getWebText2`",
-    "url": "/legacy/Object/Utils/getWebText2",
+    "url": "/reference/legacy/Object/Utils/getWebText2",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -409,7 +409,7 @@
   },
   "getZoneIdByName": {
     "feature": "`getZoneIdByName`",
-    "url": "/legacy/Object/Utils/getZoneIdByName",
+    "url": "/reference/legacy/Object/Utils/getZoneIdByName",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -438,7 +438,7 @@
   },
   "isUndefined": {
     "feature": "`isUndefined`",
-    "url": "/legacy/Object/Utils/isUndefined",
+    "url": "/reference/legacy/Object/Utils/isUndefined",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -467,7 +467,7 @@
   },
   "measureNanoTime": {
     "feature": "`measureNanoTime`",
-    "url": "/legacy/Object/Utils/measureNanoTime",
+    "url": "/reference/legacy/Object/Utils/measureNanoTime",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -496,7 +496,7 @@
   },
   "measureTimeMillis": {
     "feature": "`measureTimeMillis`",
-    "url": "/legacy/Object/Utils/measureTimeMillis",
+    "url": "/reference/legacy/Object/Utils/measureTimeMillis",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -525,7 +525,7 @@
   },
   "parse": {
     "feature": "`parse`",
-    "url": "/legacy/Object/Utils/parse",
+    "url": "/reference/legacy/Object/Utils/parse",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -554,7 +554,7 @@
   },
   "randomAlphanumeric": {
     "feature": "`randomAlphanumeric`",
-    "url": "/legacy/Object/Utils/randomAlphanumeric",
+    "url": "/reference/legacy/Object/Utils/randomAlphanumeric",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -583,7 +583,7 @@
   },
   "removeRLO": {
     "feature": "`removeRLO`",
-    "url": "/legacy/Object/Utils/removeRLO",
+    "url": "/reference/legacy/Object/Utils/removeRLO",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -612,7 +612,7 @@
   },
   "removeTags": {
     "feature": "`removeTags`",
-    "url": "/legacy/Object/Utils/removeTags",
+    "url": "/reference/legacy/Object/Utils/removeTags",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -641,7 +641,7 @@
   },
   "sleep": {
     "feature": "`sleep`",
-    "url": "/legacy/Object/Utils/sleep",
+    "url": "/reference/legacy/Object/Utils/sleep",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -670,7 +670,7 @@
   },
   "toast": {
     "feature": "`toast`",
-    "url": "/legacy/Object/Utils/toast",
+    "url": "/reference/legacy/Object/Utils/toast",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -699,7 +699,7 @@
   },
   "vibrate": {
     "feature": "`vibrate`",
-    "url": "/legacy/Object/Utils/vibrate",
+    "url": "/reference/legacy/Object/Utils/vibrate",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -728,7 +728,7 @@
   },
   "xmlToJson": {
     "feature": "`xmlToJson`",
-    "url": "/legacy/Object/Utils/xmlToJson",
+    "url": "/reference/legacy/Object/Utils/xmlToJson",
     "status": {
       "deprecated": false,
       "experimental": false,

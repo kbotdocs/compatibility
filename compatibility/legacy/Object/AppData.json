@@ -1,7 +1,7 @@
 {
   "AppData": {
     "feature": "`AppData`",
-    "url": "/legacy/Object/AppData",
+    "url": "/reference/legacy/Object/AppData",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "clear": {
     "feature": "`clear`",
-    "url": "/legacy/Object/AppData/clear",
+    "url": "/reference/legacy/Object/AppData/clear",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "getBoolean": {
     "feature": "`getBoolean`",
-    "url": "/legacy/Object/AppData/getBoolean",
+    "url": "/reference/legacy/Object/AppData/getBoolean",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "getInt": {
     "feature": "`getInt`",
-    "url": "/legacy/Object/AppData/getInt",
+    "url": "/reference/legacy/Object/AppData/getInt",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "getString": {
     "feature": "`getString`",
-    "url": "/legacy/Object/AppData/getString",
+    "url": "/reference/legacy/Object/AppData/getString",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -146,7 +146,7 @@
   },
   "putBoolean": {
     "feature": "`putBoolean`",
-    "url": "/legacy/Object/AppData/putBoolean",
+    "url": "/reference/legacy/Object/AppData/putBoolean",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -175,7 +175,7 @@
   },
   "putInt": {
     "feature": "`putInt`",
-    "url": "/legacy/Object/AppData/putInt",
+    "url": "/reference/legacy/Object/AppData/putInt",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -204,7 +204,7 @@
   },
   "putString": {
     "feature": "`putString`",
-    "url": "/legacy/Object/AppData/putString",
+    "url": "/reference/legacy/Object/AppData/putString",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -233,7 +233,7 @@
   },
   "remove": {
     "feature": "`remove`",
-    "url": "/legacy/Object/AppData/remove",
+    "url": "/reference/legacy/Object/AppData/remove",
     "status": {
       "deprecated": false,
       "experimental": false,

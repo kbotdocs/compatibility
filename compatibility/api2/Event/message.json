@@ -1,7 +1,7 @@
 {
   "message": {
     "feature": "`message` 이벤트",
-    "url": "/api2/Event/message",
+    "url": "/reference/api2/Event/message",
     "status": {
       "deprecated": false,
       "experimental": false,

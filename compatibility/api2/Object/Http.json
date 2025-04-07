@@ -1,7 +1,7 @@
 {
   "Http": {
     "feature": "`Http`",
-    "url": "/api2/Object/Http",
+    "url": "/reference/api2/Object/Http",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -30,7 +30,7 @@
   },
   "request(Object,Function)": {
     "feature": "`request(Object, Function)`",
-    "url": "/api2/Object/Http/request(Object,Function)",
+    "url": "/reference/api2/Object/Http/request(Object,Function)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -59,7 +59,7 @@
   },
   "request(String,Function)": {
     "feature": "`request(String, Function)`",
-    "url": "/api2/Object/Http/request(String,Function)",
+    "url": "/reference/api2/Object/Http/request(String,Function)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -88,7 +88,7 @@
   },
   "requestSync(Object)": {
     "feature": "`requestSync(Object)`",
-    "url": "/api2/Object/Http/requestSync(Object)",
+    "url": "/reference/api2/Object/Http/requestSync(Object)",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -117,7 +117,7 @@
   },
   "requestSync(String)": {
     "feature": "`requestSync(String)`",
-    "url": "/api2/Object/Http/requestSync(String)",
+    "url": "/reference/api2/Object/Http/requestSync(String)",
     "status": {
       "deprecated": false,
       "experimental": false,

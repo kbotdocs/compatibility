@@ -1,7 +1,7 @@
 {
   "onDestroy": {
     "feature": "`onDestroy` 이벤트 리스너",
-    "url": "/legacy/EventListener/onDestroy",
+    "url": "/reference/legacy/EventListener/onDestroy",
     "status": {
       "deprecated": false,
       "experimental": false,
