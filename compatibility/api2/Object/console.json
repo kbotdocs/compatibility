@@ -28,9 +28,9 @@
       ]
     }
   },
-  "clear": {
-    "feature": "`clear`",
-    "url": "/reference/api2/Object/console/clear",
+  "assert": {
+    "feature": "`assert`",
+    "url": "/reference/api2/Object/console/assert",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -57,9 +57,9 @@
       ]
     }
   },
-  "assert": {
-    "feature": "`assert`",
-    "url": "/reference/api2/Object/console/assert",
+  "clear": {
+    "feature": "`clear`",
+    "url": "/reference/api2/Object/console/clear",
     "status": {
       "deprecated": false,
       "experimental": true,
