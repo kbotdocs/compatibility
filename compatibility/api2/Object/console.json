@@ -98,7 +98,11 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.7.39a"
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.39a",
+          "description": "`label`의 기본값이 `undefined`임."
         }
       ],
       "autoReplyBot": [
@@ -127,7 +131,11 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.7.39a"
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.39a",
+          "description": "`label`의 기본값이 `undefined`임."
         }
       ],
       "autoReplyBot": [
@@ -333,7 +341,11 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.7.39a"
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.39a",
+          "description": "`label`의 기본값이 `undefined`임."
         }
       ],
       "autoReplyBot": [
@@ -362,7 +374,11 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.7.39a"
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.39a",
+          "description": "`label`의 기본값이 `undefined`임."
         }
       ],
       "autoReplyBot": [
@@ -391,7 +407,11 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.7.39a"
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.39a",
+          "description": "`label`의 기본값이 `undefined`임."
         }
       ],
       "autoReplyBot": [
