@@ -10,8 +10,8 @@
     "support": {
       "msgBot": [
         {
-          "status": "no_support",
-          "version": ""
+          "status": "full_support",
+          "version": "0.7.39a"
         }
       ],
       "autoReplyBot": [
@@ -38,8 +38,8 @@
     "support": {
       "msgBot": [
         {
-          "status": "no_support",
-          "version": ""
+          "status": "full_support",
+          "version": "0.7.39a"
         }
       ],
       "autoReplyBot": [
@@ -66,8 +66,8 @@
     "support": {
       "msgBot": [
         {
-          "status": "no_support",
-          "version": ""
+          "status": "full_support",
+          "version": "0.7.39a"
         }
       ],
       "autoReplyBot": [
@@ -94,8 +94,8 @@
     "support": {
       "msgBot": [
         {
-          "status": "no_support",
-          "version": ""
+          "status": "full_support",
+          "version": "0.7.39a"
         }
       ],
       "autoReplyBot": [
