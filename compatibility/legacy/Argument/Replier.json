@@ -107,7 +107,7 @@
           },
           "version": {
             "start": "0.7.34a",
-            "last": "0.7.38a"
+            "last": "0.7.39a"
           },
           "description": [
             "`reply(String, String)`이 존재하지 않음.",
@@ -116,7 +116,7 @@
         },
         {
           "status": "full_support",
-          "version": "0.7.38a"
+          "version": "0.7.39a"
         }
       ],
       "autoReplyBot": [
