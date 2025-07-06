@@ -1,7 +1,7 @@
 {
   "App": {
-    "feature": "`clearInterval`",
-    "url": "/reference/legacy/Function/clearInterval",
+    "feature": "`clearTimeout`",
+    "url": "/reference/legacy/Function/clearTimeout",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -11,15 +11,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "detailedStatus": {
-            "bug": true
-          },
-          "version": "0.3.3a",
-          "description": "유효하지 않은 `timeoutID`에 대해 `java.lang.IndexOutOfBoundsException`을 throw함. [#19](https://github.com/VioletXF/MessengerBot/issues/19)"
-        },
-        {
-          "status": "full_support",
-          "version": "0.7.36a"
+          "version": "0.3.3a"
         }
       ],
       "autoReplyBot": [

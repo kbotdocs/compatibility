@@ -1,7 +1,7 @@
 {
   "App": {
-    "feature": "`setInterval`",
-    "url": "/reference/legacy/Function/setInterval",
+    "feature": "`clearTimeout`",
+    "url": "/reference/api2/Function/clearTimeout",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -11,13 +11,13 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.3.3a"
+          "version": "0.3.5a"
         }
       ],
       "autoReplyBot": [
         {
           "status": "full_support",
-          "version": "1.0"
+          "version": "4.0"
         }
       ],
       "starLight": [
