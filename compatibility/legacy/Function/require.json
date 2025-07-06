@@ -1,5 +1,5 @@
 {
-  "App": {
+  "require": {
     "feature": "`require`",
     "url": "/reference/legacy/Function/require",
     "status": {

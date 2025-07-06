@@ -1,5 +1,5 @@
 {
-  "App": {
+  "clearTimeout": {
     "feature": "`clearTimeout`",
     "url": "/reference/api2/Function/clearTimeout",
     "status": {

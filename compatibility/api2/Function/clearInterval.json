@@ -1,5 +1,5 @@
 {
-  "App": {
+  "clearInterval": {
     "feature": "`clearInterval`",
     "url": "/reference/api2/Function/clearInterval",
     "status": {

@@ -1,5 +1,5 @@
 {
-  "App": {
+  "clearInterval": {
     "feature": "`clearInterval`",
     "url": "/reference/legacy/Function/clearInterval",
     "status": {
