@@ -15,7 +15,7 @@
             "bug": true
           },
           "version": "0.3.3a",
-          "description": "유효하지 않은 `timeoutID`에 대해 `java.lang.IndexOutOfBoundsException`을 throw함. [#19](https://github.com/VioletXF/MessengerBot/issues/19)"
+          "description": "유효하지 않은 `intervalID`에 대해 `java.lang.IndexOutOfBoundsException`을 throw함. [#19](https://github.com/VioletXF/MessengerBot/issues/19)"
         },
         {
           "status": "full_support",
