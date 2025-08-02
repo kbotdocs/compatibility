@@ -260,9 +260,9 @@
       ]
     }
   },
-  "prepare(Boolean$)": {
-    "feature": "`prepare(Boolean?)`",
-    "url": "/reference/api2/Object/BotManager/prepare(Boolean$)",
+  "prepare": {
+    "feature": "`prepare`",
+    "url": "/reference/api2/Object/BotManager/prepare",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -289,9 +289,9 @@
       ]
     }
   },
-  "prepare(String,Boolean$)": {
-    "feature": "`prepare(String, Boolean?)`",
-    "url": "/reference/api2/Object/BotManager/prepare(String,Boolean$)",
+  "prepareAll": {
+    "feature": "`prepareAll`",
+    "url": "/reference/api2/Object/BotManager/prepareAll",
     "status": {
       "deprecated": false,
       "experimental": false,
