@@ -115,9 +115,9 @@
       ]
     }
   },
-  "getCacheUrls": {
-    "feature": "`getCacheUrls`",
-    "url": "/reference/api2/Object/MediaSender/getCacheUrls",
+  "getCachedUrls": {
+    "feature": "`getCachedUrls`",
+    "url": "/reference/api2/Object/MediaSender/getCachedUrls",
     "status": {
       "deprecated": false,
       "experimental": true,
