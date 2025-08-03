@@ -86,9 +86,9 @@
       ]
     }
   },
-  "getCacheSize": {
-    "feature": "`getCacheSize`",
-    "url": "/reference/legacy/Object/MediaSender/getCacheSize",
+  "getCachedUrls": {
+    "feature": "`getCachedUrls`",
+    "url": "/reference/legacy/Object/MediaSender/getCachedUrls",
     "status": {
       "deprecated": false,
       "experimental": true,
@@ -115,9 +115,9 @@
       ]
     }
   },
-  "getCachedUrls": {
-    "feature": "`getCachedUrls`",
-    "url": "/reference/legacy/Object/MediaSender/getCachedUrls",
+  "getCacheSize": {
+    "feature": "`getCacheSize`",
+    "url": "/reference/legacy/Object/MediaSender/getCacheSize",
     "status": {
       "deprecated": false,
       "experimental": true,
