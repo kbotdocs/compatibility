@@ -416,6 +416,11 @@
         },
         {
           "status": "full_support",
+          "version": "0.7.34a",
+          "description": "`room`에 방의 ID를 사용할 수 있음."
+        },
+        {
+          "status": "full_support",
           "detailedStatus": {
             "bug": true
           },
