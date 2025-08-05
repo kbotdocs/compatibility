@@ -40,7 +40,15 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.3.5a"
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.3.5a",
+          "description": "프로퍼티의 이름이 `profileImage`임."
+        },
+        {
+          "status": "full_support",
+          "version": "0.6.1a"
         }
       ],
       "autoReplyBot": [
@@ -69,7 +77,15 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.3.5a"
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.3.5a",
+          "description": "프로퍼티의 이름이 `userHash`임."
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.36a"
         }
       ],
       "autoReplyBot": [
