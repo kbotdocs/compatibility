@@ -494,7 +494,7 @@
     }
   },
   "markAsReadOnID": {
-    "feature": "`markAsReadOnID()`",
+    "feature": "`markAsReadOnID`",
     "url": "/reference/legacy/Object/Api/markAsReadOnID",
     "status": {
       "deprecated": false,
@@ -711,7 +711,7 @@
     }
   },
   "replyToID": {
-    "feature": "`replyToID()`",
+    "feature": "`replyToID`",
     "url": "/reference/legacy/Object/Api/replyToID",
     "status": {
       "deprecated": false,
