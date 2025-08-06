@@ -128,7 +128,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.1.2a"
+          "version": "0.3.3a"
         }
       ],
       "autoReplyBot": [
@@ -302,7 +302,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.1.2a"
+          "version": "0.3.3a"
         }
       ],
       "autoReplyBot": [
@@ -418,7 +418,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.1.2a"
+          "version": "0.3.3a"
         }
       ],
       "autoReplyBot": [
@@ -476,7 +476,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.1.2a"
+          "version": "0.7.23a"
         }
       ],
       "autoReplyBot": [
@@ -493,38 +493,9 @@
       ]
     }
   },
-  "markAsReadOnID(BigInt)": {
-    "feature": "`markAsReadOnID(BigInt)`",
-    "url": "/reference/legacy/Object/Api/markAsReadOnID(BigInt)",
-    "status": {
-      "deprecated": false,
-      "experimental": false,
-      "nonStandard": false
-    },
-    "support": {
-      "msgBot": [
-        {
-          "status": "full_support",
-          "version": "0.7.39a"
-        }
-      ],
-      "autoReplyBot": [
-        {
-          "status": "no_support",
-          "version": ""
-        }
-      ],
-      "starLight": [
-        {
-          "status": "no_support",
-          "version": ""
-        }
-      ]
-    }
-  },
-  "markAsReadOnID(String)": {
-    "feature": "`markAsReadOnID(String)`",
-    "url": "/reference/legacy/Object/Api/markAsReadOnID(String)",
+  "markAsReadOnID": {
+    "feature": "`markAsReadOnID`",
+    "url": "/reference/legacy/Object/Api/markAsReadOnID",
     "status": {
       "deprecated": false,
       "experimental": false,
@@ -718,6 +689,11 @@
         {
           "status": "full_support",
           "version": "0.1.2a"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.34a",
+          "description": "`room`에 방의 ID를 사용할 수 있음."
         }
       ],
       "autoReplyBot": [
@@ -734,38 +710,9 @@
       ]
     }
   },
-  "replyToID(BigInt,String,Boolean$)": {
-    "feature": "`replyToID(BigInt, String, Boolean?)`",
-    "url": "/reference/legacy/Object/Api/replyToID(BigInt,String,Boolean$)",
-    "status": {
-      "deprecated": false,
-      "experimental": false,
-      "nonStandard": false
-    },
-    "support": {
-      "msgBot": [
-        {
-          "status": "full_support",
-          "version": "0.7.39a"
-        }
-      ],
-      "autoReplyBot": [
-        {
-          "status": "no_support",
-          "version": ""
-        }
-      ],
-      "starLight": [
-        {
-          "status": "full_support",
-          "version": "0.1.0a"
-        }
-      ]
-    }
-  },
-  "replyToID(String,String,Boolean$)": {
-    "feature": "`replyToID(String, String, Boolean?)`",
-    "url": "/reference/legacy/Object/Api/replyToID(String,String,Boolean$)",
+  "replyToID": {
+    "feature": "`replyToID`",
+    "url": "/reference/legacy/Object/Api/replyToID",
     "status": {
       "deprecated": false,
       "experimental": false,

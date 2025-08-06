@@ -40,7 +40,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.1.2a"
+          "version": "0.7.23a"
         }
       ],
       "autoReplyBot": [
@@ -107,7 +107,7 @@
           },
           "version": {
             "start": "0.7.34a",
-            "last": "0.7.39a"
+            "last": "0.7.38a"
           },
           "description": [
             "`reply(String, String)`이 존재하지 않음.",

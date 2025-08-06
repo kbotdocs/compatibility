@@ -127,6 +127,35 @@
       ]
     }
   },
+  "getListenersMap": {
+    "feature": "`getListenersMap`",
+    "url": "/reference/api2/Object/Bot/getListenersMap",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.3.5a"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
   "getName": {
     "feature": "`getName`",
     "url": "/reference/api2/Object/Bot/getName",
@@ -185,6 +214,35 @@
       ]
     }
   },
+  "getRootPath": {
+    "feature": "`getRootPath`",
+    "url": "/reference/api2/Object/Bot/getRootPath",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.6.1a"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
   "listeners": {
     "feature": "`listeners`",
     "url": "/reference/api2/Object/Bot/listeners",
@@ -226,7 +284,7 @@
       "msgBot": [
         {
           "status": "full_support",
-          "version": "0.3.5a"
+          "version": "0.7.23a"
         },
         {
           "status": "full_support",
@@ -413,6 +471,11 @@
         {
           "status": "full_support",
           "version": "0.3.5a"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.34a",
+          "description": "`room`에 방의 ID를 사용할 수 있음."
         },
         {
           "status": "full_support",

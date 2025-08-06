@@ -16,14 +16,159 @@
       ],
       "autoReplyBot": [
         {
-          "status": "full_support",
-          "version": "4.0"
+          "status": "no_support",
+          "version": ""
         }
       ],
       "starLight": [
         {
           "status": "full_support",
           "version": "0.1.0a"
+        }
+      ]
+    }
+  },
+  "getAllEvents": {
+    "feature": "`getAllEvents`",
+    "url": "/reference/api2/Object/Broadcast/getAllEvents",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "getListenerCount": {
+    "feature": "`getListenerCount`",
+    "url": "/reference/api2/Object/Broadcast/getListenerCount",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "getLocalEvents": {
+    "feature": "`getLocalEvents`",
+    "url": "/reference/api2/Object/Broadcast/getLocalEvents",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "hasListeners": {
+    "feature": "`hasListeners`",
+    "url": "/reference/api2/Object/Broadcast/hasListeners",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ]
+    }
+  },
+  "hasLocalListeners": {
+    "feature": "`hasLocalListeners`",
+    "url": "/reference/api2/Object/Broadcast/hasLocalListeners",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
         }
       ]
     }
@@ -45,8 +190,8 @@
       ],
       "autoReplyBot": [
         {
-          "status": "full_support",
-          "version": "4.0"
+          "status": "no_support",
+          "version": ""
         }
       ],
       "starLight": [
@@ -74,14 +219,43 @@
       ],
       "autoReplyBot": [
         {
-          "status": "full_support",
-          "version": "4.0"
+          "status": "no_support",
+          "version": ""
         }
       ],
       "starLight": [
         {
           "status": "full_support",
           "version": "0.1.0a"
+        }
+      ]
+    }
+  },
+  "sendLocal": {
+    "feature": "`sendLocal`",
+    "url": "/reference/api2/Object/Broadcast/sendLocal",
+    "status": {
+      "deprecated": false,
+      "experimental": false,
+      "nonStandard": false
+    },
+    "support": {
+      "msgBot": [
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
+        }
+      ],
+      "autoReplyBot": [
+        {
+          "status": "no_support",
+          "version": ""
+        }
+      ],
+      "starLight": [
+        {
+          "status": "no_support",
+          "version": ""
         }
       ]
     }
@@ -103,8 +277,8 @@
       ],
       "autoReplyBot": [
         {
-          "status": "full_support",
-          "version": "4.0"
+          "status": "no_support",
+          "version": ""
         }
       ],
       "starLight": [
@@ -132,8 +306,8 @@
       ],
       "autoReplyBot": [
         {
-          "status": "full_support",
-          "version": "4.0"
+          "status": "no_support",
+          "version": ""
         }
       ],
       "starLight": [
