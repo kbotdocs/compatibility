@@ -41,6 +41,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -101,8 +121,30 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.7.39a",
-          "description": "`label`의 기본값이 `undefined`임."
+          "version": {
+            "start": "0.7.39a"
+          },
+          "description": "`label`의 기본값이 `undefined`임. [#24](https://github.com/VioletXF/MessengerBot/issues/24)"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -135,7 +177,11 @@
             "bug": true
           },
           "version": "0.7.39a",
-          "description": "`label`의 기본값이 `undefined`임."
+          "description": "`label`의 기본값이 `undefined`임. [#24](https://github.com/VioletXF/MessengerBot/issues/24)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
         }
       ],
       "autoReplyBot": [
@@ -173,6 +219,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -210,6 +276,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -247,6 +333,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -284,6 +390,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -313,6 +439,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -345,7 +491,11 @@
             "bug": true
           },
           "version": "0.7.39a",
-          "description": "`label`의 기본값이 `undefined`임."
+          "description": "`label`의 기본값이 `undefined`임. [#24](https://github.com/VioletXF/MessengerBot/issues/24)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.03"
         }
       ],
       "autoReplyBot": [
@@ -378,7 +528,27 @@
             "bug": true
           },
           "version": "0.7.39a",
-          "description": "`label`의 기본값이 `undefined`임."
+          "description": "`label`의 기본값이 `undefined`임. [#24](https://github.com/VioletXF/MessengerBot/issues/24)"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -411,7 +581,27 @@
             "bug": true
           },
           "version": "0.7.39a",
-          "description": "`label`의 기본값이 `undefined`임."
+          "description": "`label`의 기본값이 `undefined`임. [#24](https://github.com/VioletXF/MessengerBot/issues/24)"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [
@@ -441,6 +631,26 @@
         {
           "status": "full_support",
           "version": "0.7.39a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.04"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.06",
+          "description": "로그를 남기지 않음. [#28](https://github.com/VioletXF/MessengerBot/issues/28)"
         }
       ],
       "autoReplyBot": [

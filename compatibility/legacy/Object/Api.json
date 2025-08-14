@@ -303,6 +303,14 @@
         {
           "status": "full_support",
           "version": "0.3.3a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "`interruptThreads(String?)`가 존재하지 않음."
         }
       ],
       "autoReplyBot": [
