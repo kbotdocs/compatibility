@@ -19,7 +19,7 @@
             "bug": true
           },
           "version": "0.3.40-alpha.03",
-          "description": "이벤트가 트리거되지 않음."
+          "description": "이벤트가 핸들링되지 않음."
         },
         {
           "status": "full_support",
