@@ -18,12 +18,12 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.3.40-alpha.03",
+          "version": "0.7.40-alpha.03",
           "description": "이벤트가 핸들링되지 않음."
         },
         {
           "status": "full_support",
-          "version": "0.3.40-alpha.06"
+          "version": "0.7.40-alpha.06"
         }
       ],
       "autoReplyBot": [
