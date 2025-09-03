@@ -221,12 +221,12 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.3.40-alpha.03",
+          "version": "0.7.40-alpha.03",
           "description": "메소드(`isDebugRoom()`)로 동작함"
         },
         {
           "status": "full_support",
-          "version": "0.3.40-alpha.08"
+          "version": "0.7.40-alpha.08"
         }
       ],
       "autoReplyBot": [
@@ -262,12 +262,12 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.3.40-alpha.03",
+          "version": "0.7.40-alpha.03",
           "description": "메소드(`isGroupChat()`)로 동작함"
         },
         {
           "status": "full_support",
-          "version": "0.3.40-alpha.08"
+          "version": "0.7.40-alpha.08"
         }
       ],
       "autoReplyBot": [
@@ -303,12 +303,12 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.3.40-alpha.03",
+          "version": "0.7.40-alpha.03",
           "description": "메소드(`isMention()`)로 동작함"
         },
         {
           "status": "full_support",
-          "version": "0.3.40-alpha.08"
+          "version": "0.7.40-alpha.08"
         }
       ],
       "autoReplyBot": [
@@ -344,12 +344,12 @@
           "detailedStatus": {
             "bug": true
           },
-          "version": "0.3.40-alpha.03",
+          "version": "0.7.40-alpha.03",
           "description": "메소드(`isMultiChat()`)로 동작함"
         },
         {
           "status": "full_support",
-          "version": "0.3.40-alpha.08"
+          "version": "0.7.40-alpha.08"
         }
       ],
       "autoReplyBot": [
