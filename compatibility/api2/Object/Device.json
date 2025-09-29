@@ -41,6 +41,18 @@
         {
           "status": "full_support",
           "version": "0.3.5a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "`timeout` 인자의 기본값이 지정되지 않음."
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.15"
         }
       ],
       "autoReplyBot": [
