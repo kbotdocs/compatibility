@@ -491,6 +491,18 @@
         {
           "status": "full_support",
           "version": "0.7.38a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "bug": true
+          },
+          "version": "0.7.40-alpha.03",
+          "description": "`BigInt` 타입의 방 ID 값을 식별하지 못함."
+        },
+        {
+          "status": "full_support",
+          "version": "0.7.40-alpha.10"
         }
       ],
       "autoReplyBot": [
