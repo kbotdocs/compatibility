@@ -240,6 +240,14 @@
         {
           "status": "no_support",
           "version": "0.7.36a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.7.41-alpha.02",
+          "description": "스크립트 설정에서 \"확장된 인자 사용\" 옵션을 활성화해야 함"
         }
       ],
       "autoReplyBot": [
@@ -272,6 +280,14 @@
         {
           "status": "no_support",
           "version": "0.7.36a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.7.41-alpha.02",
+          "description": "스크립트 설정에서 \"확장된 인자 사용\" 옵션을 활성화해야 함"
         }
       ],
       "autoReplyBot": [
@@ -304,6 +320,14 @@
         {
           "status": "no_support",
           "version": "0.7.36a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.7.41-alpha.02",
+          "description": "스크립트 설정에서 \"확장된 인자 사용\" 옵션을 활성화해야 함"
         }
       ],
       "autoReplyBot": [
@@ -336,6 +360,14 @@
         {
           "status": "no_support",
           "version": "0.7.36a"
+        },
+        {
+          "status": "full_support",
+          "detailedStatus": {
+            "seeImpl": true
+          },
+          "version": "0.7.41-alpha.02",
+          "description": "스크립트 설정에서 \"확장된 인자 사용\" 옵션을 활성화해야 함"
         }
       ],
       "autoReplyBot": [
